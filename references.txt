@@ -1,5 +1,7 @@
 Daten:
-- DHS Survey Jordanien 2023
-- Distriktgrenzen Jordanien
+- Jordan DHS Survey 2023: https://dhsprogram.com/methodology/survey/survey-display-596.cfm
+- Geospatial Kovariaten DHS: https://spatialdata.dhsprogram.com/covariates/
+- Distriktgrenzen Jordanien: https://gadm.org/download_country.html
 Literatur:
-- Wealth Index
+- Aufbau des Wealth Index: Rutstein, Shea O. and Kiersten Johnson. 2004. The DHS Wealth Index. DHS Comparative Reports No. 6. Calverton, Maryland: ORC Macro.
+- Recode Manual: https://dhsprogram.com/publications/publication-dhsg4-dhs-questionnaires-and-manuals.cfm
