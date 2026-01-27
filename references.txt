@@ -1,1 +1,5 @@
-Referenzen:
+Daten:
+- DHS Survey Jordanien 2023
+- Distriktgrenzen Jordanien
+Literatur:
+- Wealth Index
