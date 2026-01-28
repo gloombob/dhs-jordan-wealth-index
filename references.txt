@@ -5,3 +5,4 @@ Daten:
 Literatur:
 - Aufbau des Wealth Index: Rutstein, Shea O. and Kiersten Johnson. 2004. The DHS Wealth Index. DHS Comparative Reports No. 6. Calverton, Maryland: ORC Macro.
 - Recode Manual: https://dhsprogram.com/publications/publication-dhsg4-dhs-questionnaires-and-manuals.cfm
+- Geospatial Covariates Dataset Manual: Mayala, Benjamin and Rose Donohue. 2022. The DHS Program Geospatial Covariate Datasets Manual (Third Edition). Rockville, Maryland, USA: ICF.
